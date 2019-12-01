@@ -1,1 +1,1 @@
-# bus_arrival
+# IDS2019 project
